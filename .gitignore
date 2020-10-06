@@ -1,0 +1,5 @@
+Makefile
+build-Debug/
+client/client.mk
+compile_flags.txt
+.codelite
